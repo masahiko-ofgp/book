@@ -45,7 +45,7 @@ you to install it automatically when you install `ctypes-foreign`.
 ```
 $ opam install ctypes ctypes-foreign
 $ utop
-# require "ctypes-foreign" ;;
+# require "ctypes.foreign" ;;
 ```
 
 You'll also need the Ncurses library for the first example. This comes
